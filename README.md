@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
-
   <h1>
   Mochamad Rayhan Aldani
 </h1>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+  <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
+
 </div>
 
 ---
@@ -23,10 +23,10 @@ I am from Indonesia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 ---
 
-### :writing_hand: My Projects :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects :
 ---
 
-- : <a href="https://nira-chat-app.onrender.com/">Nira Chat App</a>
+- 🤙 <a href="https://nira-chat-app.onrender.com/">Nira Chat App</a>
 
 ---
 

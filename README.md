@@ -2,22 +2,18 @@
   <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/>
 
   <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Mochamad Rayhan Aldani
 </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am from Indonesia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ---
 
-- :telescope: I am a student at STMIK Bandung majoring in Informatics engineering.
+- :telescope: Student at STMIK Bandung majoring in Informatics engineering.
 
 - :seedling: Exploring Technical Content.
 

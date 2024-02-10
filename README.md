@@ -24,7 +24,6 @@ I am from Indonesia. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects :
----
 
 - 🤙 <a href="https://nira-chat-app.onrender.com/">Nira Chat App</a>
 
